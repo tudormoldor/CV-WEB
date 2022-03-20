@@ -1,0 +1,99 @@
+
+#logo
+{
+    width:300px;
+    height:100px;
+}
+
+#pozcv
+{
+    width: 170.5px;
+    height:256px;
+}
+
+ table,th, td
+{
+    padding: 5px;
+    margin-top: 25px;
+} 
+
+th
+{
+    color: blue;
+}
+hr 
+{
+    border-color: dodgerblue;
+    background-color: dodgerblue;
+    color: dodgerblue;
+    width:800px;
+    text-align:left;
+    margin-left:0
+  
+}
+
+#info
+{
+    text-align:left;
+    width: 600px;
+}
+
+#educatie
+{  
+   width: 600px;
+}
+
+#educatie th
+{
+    text-align: left;
+    
+}
+
+
+#lucru
+{
+    text-align: left;
+    width: 900px;
+}
+
+#competente th
+{
+    text-align: left;;
+}
+
+#competente td
+{
+    width: 698px; 
+}
+
+#tabelcomp
+{
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#tabelcomp td
+{
+    border-style: solid; 
+    border-color: black;
+}
+
+#permis th
+{
+    width: 698px;
+    text-align: left;
+}
+
+#introducere td
+{
+    width: 698px;
+    text-align: left;
+}
+
+#introducere th
+{
+    text-align: left;
+}
+
+
+
